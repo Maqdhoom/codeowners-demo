@@ -1,1 +1,2 @@
 Authentication login configuration. 
+Updated authentication configuration. 
